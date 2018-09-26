@@ -1,0 +1,7 @@
+{
+  "name": "AweseomApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
